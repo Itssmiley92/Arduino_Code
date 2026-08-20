@@ -1,10 +1,10 @@
 
 /*
- * Robot arm code uding a joystick
+ * Edit of RobotArmUsingJoystick_2026-04-08
  * Some code reused from arduino project: Project 5 - Servo Mood Indicator (not all of it tho :D)
  * Version 1.1
- * started: 2026-04-08
- * finished: 2026-04-09
+ * started: 2026-08-20
+ * finished: 2026-08-20
  * by Nolan Kelly
 */
 
